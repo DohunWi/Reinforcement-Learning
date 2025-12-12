@@ -1,2 +1,4 @@
 ddpg_env/
 *.meta
+.DS_Store
+__pycache__/
