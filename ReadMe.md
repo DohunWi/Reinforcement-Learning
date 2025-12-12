@@ -201,7 +201,10 @@ Time.timeScale = 1.5f;  // 시뮬레이션 배속 (최대 20x 권장)
 MIT License
 
 ## 제작 정보
-
 **제작**: 2025년 강화학습 프로젝트  
 **알고리즘**: DQN, DDPG, SAC  
 **환경**: Unity ML-Agents + PyTorch
+
+## 테스트 영상
+![Test_in_TrainMap](https://github.com/user-attachments/assets/bcb37632-bf35-4ec9-92c8-81247be1276c)
+![TestMap](https://github.com/user-attachments/assets/b018cd14-ceac-4bc1-82cb-f01cc30287bb)
